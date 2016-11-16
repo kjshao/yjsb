@@ -1,12 +1,5 @@
-<div class="navbar navbar-default" role="navigation">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar1">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-  </div>
-  <div class="collapse navbar-collapse" id="navbar1">
+<div class="navbar navbar-default navbar-static-top">
+  <div class="container">
     <ul class="nav navbar-nav">
       <li><a href="http://www.gsc.dicp.ac.cn">首页</a></li>
       <li><a>职能</a></li>

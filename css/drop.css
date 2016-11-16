@@ -37,6 +37,9 @@ body{
 }
 .navbar-nav {
   width: 100%;
+  padding: 0px 0px 0px 0px;
+  border: 0px;
+  margin: 0px;
   text-align: center;
 }
 .navbar-nav>li {
@@ -45,6 +48,7 @@ body{
 }
 .navbar-default .navbar-nav>li>a {
    color: #a51c30;
+   padding: 15px;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
