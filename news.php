@@ -1,4 +1,4 @@
-<div class="container" style="width:100%; padding:15px; border-bottom: 5px solid #a51c30;">
+<div class="container" style="width:100%; padding:15px;">
 <div class="col-xs-6 gridx">
  <div class="title1">
   <h3>新闻</h3>
@@ -21,7 +21,7 @@
  <div class="title1">
   <h3>通知</h3>
  </div>
- <div id='example' class="content1">
+ <div class="content1 vtick1">
   <ul>
     <li><a href='#'><p class="noticeContents">关于举办“从科研成果‘创造’到产业化‘创新’，如何‘化茧成蝶’?——诚邀您共同探讨科研成果产业化与基金孵化专题”论坛的通知</p></a></li>
     <li><a href='#'><p class="noticeContents">关于申报第十二届“中国科学院杰出青年”的通知</p></a></li>

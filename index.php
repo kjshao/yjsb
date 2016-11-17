@@ -34,9 +34,16 @@
 
 <script>
 $(function() {
-  $('#example').vTicker('init', {speed: 1000, 
+  $('.vtick1').vTicker('init', {speed: 1000, 
     pause: 1000,
     height: 280,
+    showItems: 10,
+    padding: 4});
+});
+$(function() {
+  $('.vtick2').vTicker('init', {speed: 1000, 
+    pause: 1000,
+    height: 140,
     showItems: 10,
     padding: 4});
 });

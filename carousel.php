@@ -11,73 +11,34 @@
   </div>
   <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1024px; height: 150px; overflow: hidden;">
     <div>
-    <img data-u="image" src="img/005.jpg" />
+    <img data-u="image" src="img/01.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/006.jpg" />
+    <img data-u="image" src="img/02.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/011.jpg" />
+    <img data-u="image" src="img/03.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/013.jpg" />
+    <img data-u="image" src="img/04.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/014.jpg" />
+    <img data-u="image" src="img/05.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/019.jpg" />
+    <img data-u="image" src="img/06.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/020.jpg" />
+    <img data-u="image" src="img/07.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/021.jpg" />
+    <img data-u="image" src="img/08.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/022.jpg" />
+    <img data-u="image" src="img/09.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/024.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/025.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/027.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/029.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/030.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/031.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/030.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/034.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/038.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/039.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/043.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/044.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/047.jpg" />
-    </div>
-    <div style="display: none;">
-    <img data-u="image" src="img/050.jpg" />
+    <img data-u="image" src="img/10.jpg" />
     </div>
   </div>
 <!-- Bullet Navigator -->
