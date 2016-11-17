@@ -1,3 +1,4 @@
+ul { margin:0; padding:0;}li { list-style:none; margin:0; padding:0;}
 html{
   background-color: #d7d7d7;
 }
@@ -132,6 +133,27 @@ body{
 .sub-slider-text-summary{ font-size: 1em; line-height: 25px; color: #D6D6D6;}
 .sub-slider-text-summary span{ font-weight: bold;}
 
+.sliderxDiv {
+  width: 100%;
+  padding: 0px;
+  margin: 0px; /* 0 auto, centering */
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 5px solid #a51c30;
+  border-bottom: 1px solid #e8e8e8;
+}
+.sliderx {
+  width: 100%;
+  padding: 10px 0px 5px 0px;
+  margin: 0 auto; /* 0 auto, centering */
+  border: 0px;
+  background-color: #fff;
+  width: 1200px;
+  height: 300px;
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+}
 /* news */
 .title1{
   padding: 0px 0px 0px 0px;
