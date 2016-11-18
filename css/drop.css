@@ -11,9 +11,9 @@ body{
   margin-bottom: 40px;
   width: 1200px;
   background-color: #fff;
-  -webkit-box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
-  -moz-box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
-  box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
+  -webkit-box-shadow: 0px 4px 30px 3px rgba(0,0,0,0.73);
+  -moz-box-shadow: 0px 4px 30px 3px rgba(0,0,0,0.73);
+  box-shadow: 0px 4px 30px 3px rgba(0,0,0,0.73);
 }
 
 /* jumbotron */
@@ -22,6 +22,7 @@ body{
    border: 0px;
    margin: 0px;
    width: 100%;
+   background: #fff;
 }
 
 /* navbar */
@@ -58,6 +59,11 @@ body{
    border-radius: 4px;
    border-bottom-left-radius: 0px;
    border-bottom-right-radius: 0px;
+/*	transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;*/
 }
 
 /* navbar dropdown menu */
@@ -70,7 +76,7 @@ body{
   margin: 0;
   padding: 0;
   list-style: none;
-  float: left
+  float: left;
 }
 .sddm li a{
   display: block;
@@ -78,7 +84,7 @@ body{
   padding: 4px 10px;
   width: 60px;
   text-align: center;
-  text-decoration: none
+  text-decoration: none;
 }
 .sddm li a:hover{
   background: #a51c30;
