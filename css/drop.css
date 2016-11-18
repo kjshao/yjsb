@@ -18,7 +18,7 @@ body{
 
 /* jumbotron */
 .jumbotron {
-   padding: 20px 0px 30px 0px;
+   padding: 0px;
    border: 0px;
    margin: 0px;
    width: 100%;
@@ -31,10 +31,10 @@ body{
    border: 0px;
    margin: 0px;
    font-size: 16px;
-   background-color: #fff;
    border-width: 0px;
    border-radius: 0px;
    width: 100%;
+   background-color: #40478d;
 /* www.cssmatic.com/box-shadow */  
 }
 .navbar-nav {
@@ -49,13 +49,13 @@ body{
   display: inline-block; 
 }
 .navbar-default .navbar-nav>li>a {
-   color: #a51c30;
+   color: #fff;
    padding: 15px;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-   color: #fff;
-   background-color: #a51c30;
+   color: #FFFF66;
+   background-color: #40478d;
    border-radius: 4px;
    border-bottom-left-radius: 0px;
    border-bottom-right-radius: 0px;
@@ -87,7 +87,7 @@ body{
   text-decoration: none;
 }
 .sddm li a:hover{
-  background: #a51c30;
+  background: #40478d;
 }
 .sddm div{
   position: absolute;
@@ -98,7 +98,7 @@ body{
   border-left: 2px solid #bac5c6;
   border-right: 1px solid #bac5c6;
   border-bottom: 1px solid #bac5c6;
-  border-top: 5px solid #a51c30;
+  border-top: 5px solid #40478d;
   border-radius: 4px;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -112,10 +112,10 @@ body{
   white-space: nowrap;
   text-align: left;
   text-decoration: none;
-  color: #a51c30;
+  color: #40478d;
 }
 .sddm div a:hover{
-  background: #a51c30;
+  background: #40478d;
   color: #fff;
 }
 
@@ -126,7 +126,7 @@ body{
   margin: 0 auto; /* 0 auto, centering */
   border-left: 0px;
   border-right: 0px;
-  border-top: 5px solid #a51c30;
+  border-top: 5px solid #40478d;
   border-bottom: 1px solid #e8e8e8;
   background-color: #fff;
 }
@@ -145,7 +145,7 @@ body{
   margin: 0px; /* 0 auto, centering */
   border-left: 0px;
   border-right: 0px;
-  border-top: 5px solid #a51c30;
+  border-top: 5px solid #40478d;
   border-bottom: 1px solid #e8e8e8;
 }
 .sliderx {
@@ -168,10 +168,10 @@ body{
   border-right: 0px;
   border-top: 0px;
   border-bottom: 1px solid #e8e8e8;
-  border-bottom: 2px solid #a51c30;
+  border-bottom: 2px solid #40478d;
 }
 h3{
-  color: #a51c30;
+  color: #40478d;
 }
 .newsli {
   padding: 4px;
@@ -214,7 +214,7 @@ h3{
   border-right: 0px;
   border-top: 0px;
   border-bottom: 1px solid #e8e8e8;
-  border-bottom: 1px dashed #a51c30;
+  border-bottom: 1px dashed #40478d;
 }
 .newsContents{
   margin: 0;
