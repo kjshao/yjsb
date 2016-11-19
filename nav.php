@@ -1,6 +1,5 @@
-<div class="navbar navbar-default navbar-static-top">
-  <div>
-    <ul class="nav navbar-nav">
+<div class="navbarx">
+    <ul class="navx">
       <li><a href="http://www.gsc.dicp.ac.cn">首页</a></li>
       <li><a>职能</a></li>
       <li class='sddm'><a href="#" onmouseover="mopen('m1')" onmouseout="mclosetime()">招生</a>
@@ -58,5 +57,4 @@
       <li><a>制度表格</a></li>
       <li><a href="http://www.dicp.ac.cn" >所主页</a></li>
     </ul>
-  </div>
 </div>
