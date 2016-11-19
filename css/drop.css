@@ -3,7 +3,7 @@ html{
   background-color: #d7d7d7;
 }
 body{
-  font-family:'lucida grande',tahoma,helvetica,arial,'bitstream vera sans',sans-serif;
+  font-family:"Microsoft YaHei",微软雅黑,"Microsoft JhengHei",'lucida grande',tahoma,helvetica,arial,'bitstream vera sans',sans-serif;
   padding:0px;
   border: 0px;
   border-radius: 10px;
@@ -123,25 +123,6 @@ body{
 }
 
 /* slider */
-.slider {
-  width: 100%;
-  padding: 10px 0px 5px 0px;
-  margin: 0 auto; /* 0 auto, centering */
-  border-left: 0px;
-  border-right: 0px;
-  border-top: 5px solid #40478d;
-  border-bottom: 1px solid #e8e8e8;
-  background-color: #fff;
-}
-.sub-slider{ width: 980px; padding: 20px 0px;margin: auto; height: 300px; background-color: #082946;}
-.sub-slider ul li{ margin-left: 20px;}
-.sub-slider-pic{ width: 400px; height: 300px; float: left;}
-.sub-slider-text{ width: 490px; height: 300px; margin-left: 60px; float: left; color: #fff;}
-.sub-slider-text-title{ font-size: 1.8em;line-height: 30px; font-family: "Times New Roman", Times, serif;}
-.sub-slider-text-time{ font-size: 0.8em; line-height: 40px; color: #D6D6D6;}
-.sub-slider-text-summary{ font-size: 1em; line-height: 25px; color: #D6D6D6;}
-.sub-slider-text-summary span{ font-weight: bold;}
-
 .sliderxDiv {
   width: 100%;
   padding: 0px;
