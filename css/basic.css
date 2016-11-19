@@ -22,12 +22,12 @@ body{
    border: 0px;
    margin: 0px;
    width:100%;
-   background: #fff;
+   background: #3c4486;
 }
 
 /* navbar */
 .navbarx {
-   padding: 14px 0px 13px 0px;
+   padding: 15px 0px 14px 0px;
    border: 0px;
    margin: 0px;
    font-size: 16px;
@@ -123,7 +123,7 @@ body{
 }
 
 /* slider */
-.sliderxDiv {
+.sliderDiv {
   width: 100%;
   padding: 0px;
   margin: 0px; /* 0 auto, centering */
@@ -132,7 +132,7 @@ body{
   border-top: 0px solid #40478d;
   border-bottom: 1px solid #e8e8e8;
 }
-.sliderx {
+.slider {
   width: 100%;
   padding: 10px 0px 5px 0px;
   margin: 0 auto; /* 0 auto, centering */
