@@ -21,7 +21,7 @@ body{
    padding: 0px;
    border: 0px;
    margin: 0px;
-   width: 100%;
+   width:100%;
    background: #fff;
 }
 
@@ -40,30 +40,36 @@ body{
 .navbar-nav {
   width: 100%;
   padding: 0px 0px 0px 0px;
-  border: 0px;
+  border-top: 1px solid #8b93c1;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
   margin: 0px;
   text-align: center;
 }
 .navbar-nav>li {
   float: none;
   display: inline-block; 
+  border: 0px;
 }
 .navbar-default .navbar-nav>li>a {
    color: #fff;
    padding: 15px;
+   border-left: 2px solid #40478d;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-   color: #FFFF66;
-   background-color: #40478d;
-   border-radius: 4px;
+   color: #FFFF00;
+   background-color: #8b93c1;
+   border-left: 2px solid #bac5c6;
+   border-radius: 0px;
    border-bottom-left-radius: 0px;
    border-bottom-right-radius: 0px;
-/*	transition: all 0.5s ease;
+	transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-webkit-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
-	-ms-transition: all 0.5s ease;*/
+	-ms-transition: all 0.5s ease;
 }
 
 /* navbar dropdown menu */
@@ -92,13 +98,13 @@ body{
 .sddm div{
   position: absolute;
   visibility: hidden;
-  background: white;
+  background: #fff;
   margin: 0;
   padding: 0;
   border-left: 2px solid #bac5c6;
   border-right: 1px solid #bac5c6;
   border-bottom: 1px solid #bac5c6;
-  border-top: 5px solid #40478d;
+  border-top: 4px solid #8b93c1;
   border-radius: 4px;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -115,8 +121,8 @@ body{
   color: #40478d;
 }
 .sddm div a:hover{
-  background: #40478d;
-  color: #fff;
+  background-color: #8b93c1;
+  color: #ffff00;
 }
 
 /* slider */
@@ -145,7 +151,7 @@ body{
   margin: 0px; /* 0 auto, centering */
   border-left: 0px;
   border-right: 0px;
-  border-top: 5px solid #40478d;
+  border-top: 0px solid #40478d;
   border-bottom: 1px solid #e8e8e8;
 }
 .sliderx {

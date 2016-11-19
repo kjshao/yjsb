@@ -1,5 +1,5 @@
 <div class="navbar navbar-default navbar-static-top">
-  <div class="container">
+  <div>
     <ul class="nav navbar-nav">
       <li><a href="http://www.gsc.dicp.ac.cn">首页</a></li>
       <li><a>职能</a></li>

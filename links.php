@@ -8,7 +8,7 @@
       </th>
       <th>
       <div class="panel1 panel panel-success">
-        <center><div class="panel2b panel-body" style="color:#fff; width:100%; height:80px; font-size:20px; background-image:url(img/b7.svg); border-radius:3px;">校友网</div></center>
+        <center><div class="panel2b panel-body" style="color:#fff; width:100%; height:80px; font-size:20px; background-image:url(img/b8.svg); border-radius:3px;">校友网</div></center>
       </div>
       </th>
       <th>
