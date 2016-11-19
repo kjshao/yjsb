@@ -1,5 +1,5 @@
 <div class="container" style="width:100%; padding:15px;">
-<div class="col-xs-6 gridx">
+<div class="col-xs-5 gridx">
  <div class="title1">
   <h3>新闻</h3>
  </div>
@@ -17,7 +17,7 @@
   </ul>
  </div>
 </div>
-<div class="col-xs-3 gridx">
+<div class="col-xs-4 gridx">
  <div class="title1">
   <h3>通知</h3>
  </div>

@@ -18,6 +18,7 @@
   <script src="js/init.js" type="text/javascript"></script>
   <link href="css/carousel.css" rel="stylesheet" type="text/css" />
   <link href="css/sliderx.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="http://cdn.webfont.youziku.com/wwwroot/js/wf/youziku.api.min.js"></script>
 </head>
 
 <body>
@@ -31,5 +32,15 @@
 <?php include_once('links.php'); ?>
 <?php include_once('footer.php'); ?>
 
+<script type="text/javascript">
+    $youziku.load("body", "6e9b15eff889471cb2cdec5c72ef714d", "PingFangSC");
+    /*$youziku.load("body", "655dd6987e2f421f80043c4f9cb47909", "SansGBW3");*/
+    /*$youziku.load("body", "aec90f1fbe4d4f7c8959e7884e9a80d9", "HiraginoGBW3");*/
+    /*$youziku.load("body", "3f1fa64ff7e7429b87cf9c639bd039f6", "Source-Han-Normal");*/
+    /*$youziku.load("body", "7700df140c47403abc7a77063f204a0c", "Source-Han-Light");*/
+    /*$youziku.load("#id1,.class1,h1", "7700df140c47403abc7a77063f204a0c", "Source-Han-Light");*/
+    /*．．．*/
+    $youziku.draw();
+</script>
 </body>
 </html>
