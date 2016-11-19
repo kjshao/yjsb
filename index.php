@@ -7,7 +7,6 @@
   <title>大连化物所研究生部主页</title>
   <meta name="author" content="Kejie Shao">
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../bootstrap/3.3.6/css/bootstrap.min.css">
   <link href="css/drop.css" rel="stylesheet" type="text/css" />
   <script src="../jquery/1.12.4/jquery.min.js"></script>
