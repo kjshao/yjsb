@@ -1,4 +1,4 @@
-<div class="text-center" style="padding:15px 0px 55px 0px;">
+<div class="text-center col-xs-12" style="padding:15px 0px 55px 0px;">
   <a href="#PageHead" title="返回顶部">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>

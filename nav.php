@@ -1,4 +1,4 @@
-<div class="navbarx">
+<div class="navbarx col-xs-12">
     <ul class="navx">
       <li><a href="http://www.gsc.dicp.ac.cn">首页</a></li>
       <li><a>职能</a></li>
