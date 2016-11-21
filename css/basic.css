@@ -198,3 +198,41 @@ h3{
   padding: 0;
   border-bottom: 1px dashed #d7d7d7;
 }
+#menubar
+{	margin: 0;
+	padding: 0}
+#menubar li
+{	float: left;
+	list-style: none;}
+
+#menubar li a
+{	display: block;
+	background: #324143;
+	padding: 5px 12px;
+	text-decoration: none;
+	border-right: 1px solid white;
+	color: #EAFFED;
+	white-space: nowrap}
+
+#menubar li a:hover
+{	background: #24313C}
+	
+#menubar li ul
+{	margin: 0;
+	padding: 0;
+	position: absolute;
+	visibility: hidden;
+	z-index: 30;
+}
+
+#menubar li ul li
+{	float: none;
+	display: inline}
+
+#menubar li ul li a
+{	width: auto;
+	background: #A9C251;
+	color: #24313C}
+
+#menubar li ul li a:hover
+{	background: #8EA344}

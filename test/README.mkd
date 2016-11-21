@@ -1,0 +1,118 @@
+# make_dropdown #
+make_dropdown is a jQuery plugin that gives you click-based drop down menus when viewed from a mobile device, and hover and click menus otherwise. It is based off of the simple and effective ["jsddm"](http://javascript-array.com/scripts/jquery_simple_drop_down_menu/) menu by by SpiceBrains.
+
+### [VIEW THE DEMO](http://suan.github.com/make_dropdown/demo.html) ###
+
+## Usage ##
+Download the plugin:
+
+- [.zip format](https://github.com/suan/make_dropdown/zipball/master)
+- [.tar.gz format](https://github.com/suan/make_dropdown/tarball/master)
+
+Copy the make_dropdown.min.js file into a folder of your choice and include it in your project, for example:
+
+```html
+<script src="js/plugins/make_dropdown.min.js" type="text/javascript"></script>
+```
+
+You need to use an unordered list structure as your menu, like so:
+
+```html
+<ul id="menubar">
+  <li><a href="#">Michael</a>
+    <ul>
+      <li><a href="#">Jordan</a></li>
+      <li><a href="#">Jackson</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Stooges</a>
+    <ul>
+      <li><a href="#">1st</a></li>
+      <li><a href="#">2nd</a></li>
+      <li><a href="#">3rd</a></li>
+    </ul>
+  </li>
+  <li><a href="#">I have no menu children</a></li>
+</ul>
+```
+
+(You can replace #menubar with any other id or class, as long as your jQuery selector in the next step is restrictive enough)
+
+Your css should look something like this **(please note the `visibility: hidden` requirement)**:
+
+```css
+#menubar
+{ margin: 0;
+  padding: 0}
+
+  #menubar li
+  { float: left;
+    list-style: none;
+    font: 12px Tahoma, Arial}
+
+  #menubar li a
+  { display: block;
+    background: #324143;
+    padding: 5px 12px;
+    text-decoration: none;
+    border-right: 1px solid white;
+    width: 70px;
+    color: #EAFFED;
+    white-space: nowrap}
+
+  #menubar li a:hover
+  { background: #24313C}
+
+    #menubar li ul
+    { margin: 0;
+      padding: 0;
+      position: absolute;
+      visibility: hidden;   /* IMPORTANT!! This property needs to be present for the plugin to work! And no, */
+                            /* display:none will NOT do! */
+      border-top: 1px solid white}
+
+      #menubar li ul li
+      { float: none;
+        display: inline}
+
+      #menubar li ul li a
+      { width: auto;
+        background: #A9C251;
+        color: #24313C}
+
+      #menubar li ul li a:hover
+      { background: #8EA344}
+
+```
+
+Finally, call `make_dropdown()` on each of the top level menu items:
+
+```javascript
+$(document).ready(function(){ $('#menubar > li').make_dropdown(); });
+```
+
+To not be oversensitive to mouse movements, menus by default take 500 milliseconds to disappear. You can change this duration by passing in the new millisecond value like so:
+
+```javascript
+$('#menubar > li').make_dropdown({'timeout' : 250});
+```
+
+**To see a complete example, view the source of demo.html.**
+
+## Requirements ##
+- jQuery 1.4+
+
+## Browser Compatibility ##
+The compatibility list of the original project was:<br/>
+IE6+, Firefox 1.5+, Opera 8+, Safari 3+, Chrome 0.2+
+
+I'd like to think that my changes haven't broken behavior on any of the above browsers, but the browsers I have concretely tested are Firefox and Chrome.
+
+## [Real-life usage example](http://suanaikyeo.com) ##
+
+## Issues ##
+If you find something wrong or want to request a feature, please use the project's [issues page](https://github.com/suan/make_dropdown/issues). If you don't have and don't want to create a github account, you could [email me](mailto:yoesuanaik@gmail.com) instead.
+
+License
+-------
+BSD (See LICENSE.txt)
