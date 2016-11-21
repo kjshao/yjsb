@@ -14,14 +14,14 @@
   <script src="../jquery/1.12.4/jquery.min.js"></script>
   <script src="../bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="js/vticker.js"></script>
-  <script src="js/make_dropdown.min.js" type="text/javascript"></script>
+  <script src="js/dropdown.min.js" type="text/javascript"></script>
   <script src="js/jssor.slider-21.1.6.mini.js" type="text/javascript"></script>
   <script src="js/init.js" type="text/javascript"></script>
 </head>
 
 <body>
 <?php include_once('jumbotron.php'); ?>
-<?php include_once('navx.php'); ?>
+<?php include_once('nav.php'); ?>
 <?php include_once('slider.php'); ?>
 <?php include_once('news.php'); ?>
 <?php include_once('infos.php'); ?>
