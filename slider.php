@@ -1,50 +1,30 @@
 <div class="container sliderDiv">
-<div id="jssor_2" class="slider">
-<div data-u="slides" style="cursor: default; border:0px; position: relative; top: 0px; left: 0px; width: 1200px; height: 300px; overflow: hidden;">
+<div id="jssor_2" class="slider" style="position:relative; overflow:hidden; width:1200px; height:400px">
+<div data-u="slides" style="cursor: default; border:0px; position: relative; top: 0px; left: 0px; width: 1200px; height: 400px; overflow: hidden;">
 <!-- Items -->
   <div data-p="150.00">
-    <img src="img/S01.jpg" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 300px;" />
-    <div style="position: absolute; top: 0px; left: 601px; width: 600px; height: 300px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
+    <img src="img/S01.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
+    <!--<div style="position: absolute; top: 200px; left: 300px; width: 600px; height: 200px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
       <p>
       test test
       </p>
-    </div>
+    </div>-->
   </div>
 <!-- Items -->
   <div data-p="150.00">
-    <img src="img/S02.jpg" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 300px;" />
-    <div style="position: absolute; top: 0px; left: 601px; width: 600px; height: 300px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
-      <p>
-      test test
-      </p>
-    </div>
+    <img src="img/S02.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
   </div>
 <!-- Items -->
   <div data-p="150.00">
-    <img src="img/S03.jpg" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 300px;" />
-    <div style="position: absolute; top: 0px; left: 601px; width: 600px; height: 300px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
-      <p>
-      test test
-      </p>
-    </div>
+    <img src="img/S03.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
   </div>
 <!-- Items -->
   <div data-p="150.00">
-    <img src="img/S04.jpg" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 300px;" />
-    <div style="position: absolute; top: 0px; left: 601px; width: 600px; height: 300px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
-      <p>
-      test test
-      </p>
-    </div>
+    <img src="img/S04.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
   </div>
 <!-- Items -->
   <div data-p="150.00">
-    <img src="img/S05.jpg" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 300px;" />
-    <div style="position: absolute; top: 0px; left: 601px; width: 600px; height: 300px; background-color: rgba(173,173,173,0.3); font-size: 20px; color: #212121; line-height: 30px; text-align: center;">
-      <p>
-      test test
-      </p>
-    </div>
+    <img src="img/S05.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
   </div>
 <!-- Items -->
   <!-- Bullet Navigator -->
