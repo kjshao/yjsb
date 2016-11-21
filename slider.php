@@ -28,10 +28,10 @@
   </div>
 <!-- Items -->
   <!-- Bullet Navigator -->
-  <div data-u="navigator" class="jssorb03" style="bottom:16px;right:16px;">
+  <div data-u="navigator" class="jssorb03" style="bottom:20px;right:50px;">
       <!-- bullet navigator item prototype -->
-      <div data-u="prototype" style="width:21px;height:21px;">
-          <div data-u="numbertemplate"></div>
+      <div data-u="prototype" style="margin:0px;padding:0px;width:17px;height:17px;border-radius:10px;">
+          <!--<div data-u="numbertemplate"></div>-->
       </div>
   </div>
 </div>
