@@ -6,7 +6,7 @@
     <img src="img/S01.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
     <div style="position: absolute; padding:17px 25px 10px 25px; top: 300px; left:100px; width: auto; height: auto; background-color: rgba(0,0,0,0.50); font-size: 24px; color: #fff; line-height: 30px; text-align: center;">
       <p>
-      我所石墨烯基柔性化、微型化超级电容器研究取得新进展
+      我所隆重举行2016年研究生毕业典礼
       </p>
     </div>
   </div>
@@ -15,7 +15,7 @@
     <img src="img/S02.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
     <div style="position: absolute; padding:17px 25px 10px 25px; top: 300px; left:100px; width: auto; height: auto; background-color: rgba(0,0,0,0.50); font-size: 24px; color: #fff; line-height: 30px; text-align: center;">
       <p>
-      青海盐湖 MTO 装置首次投料试车取得圆满成功
+      第十六届国际催化大会在北京隆重开幕
       </p>
     </div>
   </div>
@@ -24,7 +24,7 @@
     <img src="img/S03.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
     <div style="position: absolute; padding:17px 25px 10px 25px; top: 300px; left:100px; width: auto; height: auto; background-color: rgba(0,0,0,0.50); font-size: 24px; color: #fff; line-height: 30px; text-align: center;">
       <p>
-      我所光催化辅助燃料电池 ORR 研究取得新进展
+      张涛荣获 2016 年何梁何利科学与技术进步化学奖
       </p>
     </div>
   </div>
@@ -33,7 +33,7 @@
     <img src="img/S04.jpg" style="position: absolute; top: 0px; left: 0px; width: 1200px; height: 400px;" />
     <div style="position: absolute; padding:17px 25px 10px 25px; top: 300px; left:100px; width: auto; height: auto; background-color: rgba(0,0,0,0.50); font-size: 24px; color: #fff; line-height: 30px; text-align: center;">
       <p>
-      张涛荣获 2016 年何梁何利科学与技术进步化学奖
+      李静海、丁仲礼调研我所
       </p>
     </div>
   </div>
