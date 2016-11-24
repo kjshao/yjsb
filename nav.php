@@ -40,7 +40,7 @@
   	<li><a href="#">培训指导</a></li>
   	</ul>
   </li>
-  <li><a href="#">港澳台留学生</a>
+  <li><a href="#">International Students</a>
   	<ul>
   	<li><a href="#">留学生招生</a></li>
   	<li><a href="#">港澳台招生</a></li>
