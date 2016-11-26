@@ -33,5 +33,10 @@
 <script>
 $(document).ready(function(){$('#menubar > li').make_dropdown();});
 </script>
+<script>
+$(function () {
+  $('[data-toggle="popover"]').popover({html:true})
+})
+</script>
 </body>
 </html>

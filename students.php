@@ -49,15 +49,15 @@
 <!-- -->
   <div class="col-xs-3 gridx">
     <div class="title2">
-      <h4>化物学子</h4>
+      <h4>化物学子<a style="padding:6px 0px 0px 0px; font-size:11px; color:#2d3a7d; float:right;" href="http://www.hwxz.dicp.ac.cn/">MORE</a></h4>
     </div>
     <div class="content2">
       <ul>
-        <li class="newsli">2016 年 10 月 第 69 期</li>
-        <li class="newsli">2016 年 9 月 第 68 期</li>
-        <li class="newsli">2016 年 8 月 第 67 期</li>
-        <li class="newsli">2016 年 7 月 第 66 期</li>
-        <li class="newsli">2016 年 6 月 第 65 期</li>
+        <li class="newsli"><a href="http://www.hwxz.dicp.ac.cn/qk/69.jpg">2016 年 10 月 第 69 期</a></li>
+        <li class="newsli"><a href="http://www.hwxz.dicp.ac.cn/qk/68.jpg">2016 年 9 月 第 68 期</a></li>
+        <li class="newsli"><a href="http://www.hwxz.dicp.ac.cn/qk/67.jpg">2016 年 8 月 第 67 期</a></li>
+        <li class="newsli"><a href="http://www.hwxz.dicp.ac.cn/qk/66.jpg">2016 年 7 月 第 66 期</a></li>
+        <li class="newsli"><a href="http://www.hwxz.dicp.ac.cn/qk/65.jpg">2016 年 6 月 第 65 期</a></li>
       </ul>
     </div>
   </div>
