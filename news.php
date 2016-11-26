@@ -1,38 +1,38 @@
 <div class="container" style="width:100%; padding:15px;">
 <div class="col-xs-5 gridx">
  <div class="title1">
-  <h3>新闻</h3>
+  <h3>新闻<a style="padding:13px 0px 0px 0px; font-size:11px; color:#2d3a7d; float:right;" href="http://www.dicp.cas.cn/xwzx/zhxw/">MORE</a></h3>
  </div>
  <div class="content1">
   <ul>
-    <li class="newsli"><p class="newsContents">我所举办论文发表前审查表上传系统使用培训</p></li>
-    <li class="newsli"><p class="newsContents">我所10名博士后获得中国博士后科学基金资助</p></li>
-    <li class="newsli"><p class="newsContents">我所党代表出席中共大连市第十二次代表大会</p></li>
-    <li class="newsli"><p class="newsContents">潘秀莲、王二东获选中国科学院2016年度青年创新促进会优秀会员</p></li>
-    <li class="newsli"><p class="newsContents">我所张家港产研院第二届一次理事会会议在连召开</p></li>
-    <li class="newsli"><p class="newsContents">我所举办2016“缘来是你”单身派对</p></li>
-    <li class="newsli"><p class="newsContents">所党委中心组传达学习党的十八届六中全会精神</p></li>
-    <li class="newsli"><p class="newsContents">我所关爱职工大讲堂举办“爱车保养”主题讲座</p></li>
-    <li class="newsli"><p class="newsContents">我所参加中科院学习宣传贯彻十八届六中全会精神工作部署会</p></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201611/t20161123_4699542.html" class="newsContents">我所赴大连理工大学颁发优秀学生奖学金<span class="newsTime">2016-11-23</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201611/t20161114_4695732.html" class="newsContents">我所举办2016“缘来是你”单身派对<span class="newsTime">2016-11-14</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201611/t20161111_4695247.html" class="newsContents">我所团队荣获辽宁省首届“互联网+”创业大赛铜奖<span class="newsTime">2016-11-11</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201611/t20161108_4693832.html" class="newsContents">我所举办研究生学位信息系统培训<span class="newsTime">2016-11-08</span></a></li>
+    <li class="newsli1"><a href="" class="newsContents">我所组织第八届研究生记者团培训交流会<span class="newsTime">2016-10-21</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201610/t20161021_4683084.html" class="newsContents">我所举办研究生学位论文答辩秘书培训<span class="newsTime">2016-10-21</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201610/t20161020_4682304.html" class="newsContents">我所组织2016级张大煜化学菁英班新生素质拓展活动<span class="newsTime">2016-10-20</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201610/t20161019_4681926.html" class="newsContents">我所参加中国科学院研究生化学学术论坛<span class="newsTime">2016-10-19</span></a></li>
+    <li class="newsli1"><a href="http://www.dicp.ac.cn/xwzx/zhxw/201609/t20160929_4671010.html" class="newsContents">我所赴华东师范大学参加“菁英班”开学典礼<span class="newsTime">2016-09-29</span></a></li>
   </ul>
  </div>
 </div>
 <div class="col-xs-4 gridx">
  <div class="title1">
-  <h3>通知</h3>
+  <h3>通知<a style="padding:13px 0px 0px 0px; font-size:11px; color:#2d3a7d; float:right;" href="http://www.gsc.dicp.ac.cn/list.php?tid=30">MORE</a></h3>
  </div>
  <div class="content1 vtick1">
   <ul>
-    <li><a href='#'><p class="noticeContents">关于举办“从科研成果‘创造’到产业化‘创新’，如何‘化茧成蝶’?——诚邀您共同探讨科研成果产业化与基金孵化专题”论坛的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于申报第十二届“中国科学院杰出青年”的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于举办论文发表前审查表上传系统使用培训的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">延长中科能源科技股份有限公司（筹）总经理候选人招聘启事</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于举办关爱职工大讲堂之“爱车保养”主题讲座的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">2016年度集中供气服务招标公告</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于印发《大连化物所标准化奖励实施细则》的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于举行11月8日入所招聘答辩会的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">关于开展2016年辽宁省“百千万人才工程”人选科技活动资助项目申报工作的通知</p></a></li>
-    <li><a href='#'><p class="noticeContents">中科院大连化物所关于苏党生任职的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201610/t20161009_4673448.html'><p class="noticeContents">关于举办研究生学位论文答辩秘书培训的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201610/t20161017_4677596.html'><p class="noticeContents">2016年“唐敖庆化学奖学金”大连化物所初选名单公示</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201610/t20161019_4682140.html'><p class="noticeContents">关于举办研究生记者团培训的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201610/t20161028_4687668.html'><p class="noticeContents">关于举办英特尔半导体（大连）有限公司招聘宣讲会的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201610/t20161031_4687891.html'><p class="noticeContents">关于举办大连化物所2016年单身派对“缘来是你”的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201611/t20161102_4689291.html'><p class="noticeContents">关于举办研究生学位信息系统培训的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201611/t20161107_4692478.html'><p class="noticeContents">关于评选辽宁省2017届优秀毕业生的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201611/t20161117_4697564.html'><p class="noticeContents">关于2017年元旦晚会节目征集的通知</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201611/t20161117_4697691.html'><p class="noticeContents">我所“2017届辽宁省优秀毕业生”拟推荐人选公示</p></a></li>
+    <li><a href='http://www.dicp.ac.cn/xwzx/tzgg/201611/t20161122_4699085.html'><p class="noticeContents">关于开展研究生“文明卫生宿舍”评选的通知</p></a></li>
   </ul>
  </div>
 </div>

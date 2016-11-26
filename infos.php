@@ -1,7 +1,7 @@
 <div class="container" style="width:100%; padding:15px;">
 <div class="col-xs-4 gridx">
  <div class='title1'>
-  <h3>招生信息</h3>
+  <h3>招生信息<a style="padding:13px 0px 0px 0px; font-size:11px; color:#2d3a7d; float:right;" href="http://www.gsc.dicp.ac.cn/body1.php?tid=1">MORE</a></h3>
  </div>
  <div class="content2 vtick2">
   <ul>
@@ -16,7 +16,7 @@
 
 <div class="col-xs-5 gridx">
  <div class='title1'>
-  <h3>就业指导</h3>
+  <h3>就业指导<a style="padding:13px 0px 0px 0px; font-size:11px; color:#2d3a7d; float:right;" href="http://www.gsc.dicp.ac.cn/body4.php?tid=22">MORE</a></h3>
  </div>
  <div class='content2'>
   <ul>
@@ -35,10 +35,10 @@
  </div>
  <div class='content2'>
   <ul>
-    <li class="newsli">研究生管理信息系统</li>
-    <li class="newsli">大连化物所住宿管理系统</li>
-    <li class="newsli">大连化物所校友网</li>
-    <li class="newsli">大连化物所户籍管理系统</li>
+    <li class="newsli"><a href="http://oaonline.dicp.ac.cn/index-dicp.htm">研究生管理信息系统</a></li>
+    <li class="newsli"><a href="">大连化物所住宿管理系统</a></li>
+    <li class="newsli"><a href="">大连化物所校友网</a></li>
+    <li class="newsli"><a href="">大连化物所户籍管理系统</a></li>
   </ul>
  </div>
 </div>
