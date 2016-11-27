@@ -110,7 +110,7 @@ h3{
 }
 .newsTime{
   margin: 0;
-  padding: 0px 0px 0px 0px;
+  padding: 1px 0px 0px 0px;
   float: right;
   font-size: 9px;
   color: rgb(90,90,90);
