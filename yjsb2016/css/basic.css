@@ -31,6 +31,8 @@ body{
    border: 0px;
    margin: 0px;
    background: #2d3a7d;
+   width: 1200px;
+   height: 140px;
 }
 
 /* slider */
@@ -42,6 +44,7 @@ body{
   border-right: 0px;
   border-top: 0px solid #2d3a7d;
   border-bottom: 1px solid #e8e8e8;
+  background-color: grey;
 }
 /* news */
 .title1{

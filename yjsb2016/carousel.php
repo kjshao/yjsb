@@ -11,34 +11,34 @@
   </div>
   <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1024px; height: 150px; overflow: hidden;">
     <div>
-    <img data-u="image" src="img/01.jpg" />
+    <img data-u="image" src="yjsb2016/img/01.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/02.jpg" />
+    <img data-u="image" src="yjsb2016/img/02.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/03.jpg" />
+    <img data-u="image" src="yjsb2016/img/03.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/04.jpg" />
+    <img data-u="image" src="yjsb2016/img/04.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/05.jpg" />
+    <img data-u="image" src="yjsb2016/img/05.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/06.jpg" />
+    <img data-u="image" src="yjsb2016/img/06.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/07.jpg" />
+    <img data-u="image" src="yjsb2016/img/07.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/08.jpg" />
+    <img data-u="image" src="yjsb2016/img/08.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/09.jpg" />
+    <img data-u="image" src="yjsb2016/img/09.jpg" />
     </div>
     <div style="display: none;">
-    <img data-u="image" src="img/10.jpg" />
+    <img data-u="image" src="yjsb2016/img/10.jpg" />
     </div>
   </div>
 <!-- Bullet Navigator -->
